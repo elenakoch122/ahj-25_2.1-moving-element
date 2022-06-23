@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9mdh4s0u70n40l4s?svg=true)](https://ci.appveyor.com/project/elenakoch122/ahj-25-2-1-moving-element)
 
+GitHub Pages: https://elenakoch122.github.io/ahj-25_2.1-moving-element/
+
 #### Легенда
 
 Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком.
