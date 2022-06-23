@@ -41,6 +41,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "core-js": "^3.23.1"
+    "core-js": "^3.23.1",
+    "push-dir": "^0.4.1"
   }
 }
