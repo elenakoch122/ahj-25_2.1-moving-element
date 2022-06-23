@@ -1,9 +1,11 @@
+import goblinImage from '../img/goblin.png';
+
 const field = document.getElementById('field');
 const fieldSize = 4;
 const fieldArr = [];
 const img = document.createElement('img');
 img.classList.add('img');
-img.src = 'img/goblin.png';
+img.src = goblinImage;
 // img.src = '../img/goblin.png';
 // img.src = 'https://github.com/netology-code/ahj-homeworks/raw/simplification/dom/pic/goblin.png';
 img.alt = 'Красное лицо гоблина';
